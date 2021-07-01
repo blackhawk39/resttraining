@@ -1,0 +1,10 @@
+
+server:
+  port: 8888
+  
+member-service:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8083,localhost:9092,localhost:9999
+    ServerListRefreshInterval: 15000
