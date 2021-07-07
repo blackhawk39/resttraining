@@ -1,0 +1,8 @@
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+.my-poster{
+  width: 160px;
+}
