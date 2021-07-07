@@ -1,0 +1,66 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+
+.navBar .header{
+  font-size: 40px;
+  margin-left: 50px;
+  margin-right: 320px;
+}
+
+.navbar-nav a{
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.add-member {
+  margin-top: 30px;
+}
+
+.add-member .heading{
+  font-size: 34px;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.add-member label{
+  font-size: 16px;
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.add-member input{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.add-member option{
+  font-size: 16px;
+}
+
+.add-member .btn{
+  font-size: 16px;
+  width: max-content;
+}
+
+.add-member .btn-group{
+  margin-top: 16px;
+  width: 100%;
+}
+
+.add-member .row{
+  margin: 20px 0px 15px 0px;
+  display: flex;
+}
+.add-member .row label{
+  display: inline;
+  padding: 10px;
+}
+
+.add-member form{
+  margin-bottom: 20px;
+}
+
+.add-member table{
+  width: 1200px;
+  display: inline-table;
+}
