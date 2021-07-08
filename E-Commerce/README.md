@@ -10,3 +10,6 @@
     -   Admin Privileges to update the cart
     -   User can send requests to Admin when product is Out of Stock
     -   Admin can approve and re-fill quantity or reject it
+    -   Bug => Register with Admin credentials as no db is attached
+    -   Admin username => admin
+    -   Admin password => admin123
