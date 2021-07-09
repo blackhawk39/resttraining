@@ -1,0 +1,115 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+
+.navBar .header{
+  font-size: 38px;
+  margin-left: 50px;
+  margin-right: 320px;
+}
+
+.main-header{
+  color: rgb(32, 129, 8) !important;
+}
+
+.navbar-nav a{
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.add-member {
+  margin-top: 30px;
+}
+
+.add-member .heading{
+  font-size: 34px;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.add-member label{
+  font-size: 16px;
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.add-member input{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.add-member option{
+  font-size: 16px;
+}
+
+.add-member .btn, .remaining-members .btn{
+  font-size: 16px;
+  width: max-content;
+}
+
+.add-member .btn-group{
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+.add-member .row{
+  margin: 20px 0px 15px 0px;
+  display: flex;
+}
+.add-member .row label, .remaining-members .row label{
+  display: inline;
+  padding: 10px;
+}
+
+.add-member form, .remaining-members form{
+  margin-bottom: 20px;
+}
+
+.add-member table{
+  width: 1200px;
+  display: inline-table;
+}
+
+.add-member .error-message{
+  color: red;
+  font-size: 18px;
+}
+
+.relations{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.relations .head-member{
+  font-size: 30px;
+}
+
+.remaining-members label{
+  font-size: 24px;
+}
+
+.remaining-members option, .remaining-members select{
+  font-size: 20px;
+}
+
+.remaining-members .row{
+  width: 100%;
+  margin: 40px 0px 0px 0px;
+}
+
+.remaining-members .btn{
+  margin-right: 10px;
+  margin-top: 60px;
+}
+
+.container .searchHeader{
+  font-size: 40px;
+}
+
+.success p{
+  margin-top: 70px;
+  font-size: 45px;
+  margin-bottom: 100px;
+}
+.success .familyId{
+  font-size: 38px;
+}
